@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OctavianLupus 
-- 👀 I’m interested in learning how the cloud computing works and integrate that knowledge with my diary workflow. I do love to exercise some HTML studies to produce
-- some web pages, create creatives designs and have fun programming! 
+- 👀 I’m interested in learning how the cloud computing works and integrate that knowledge with my diary workflow. I do love to exercise some HTML studies to produce some web pages, create creatives designs and have fun programming! 
 - 🌱 I’m currently learning IT infrastructure management, cloud computing, client suport, VMs creations and management.
 - 💞️ I’m looking to collaborate on a place that evolve the employees with parallel studies based on the workflow of the company, have a respectful team and a light 
 - day-to-day activities.
